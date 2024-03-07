@@ -1,0 +1,21 @@
+.fixed-button {
+    position: fixed;
+    bottom: 20px; /* Adjust this value to change the vertical position */
+    right: 20px; /* Adjust this value to change the horizontal position */
+    background-color: #007bff; /* Background color of the button */
+    color: #fff; /* Text color of the button */
+    border: none;
+    border-radius: 50%; /* Makes it a circle */
+    width: 50px; /* Adjust the size of the button */
+    height: 50px; /* Adjust the size of the button */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    z-index: 999; /* Adjust the z-index to ensure it's above other elements */
+  }
+  
+  .fixed-button:hover {
+    background-color: #0056b3; /* Change color on hover */
+  }
+  

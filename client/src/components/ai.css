@@ -1,0 +1,94 @@
+.App-ai {
+    display: flex;
+    flex-direction: column;
+    height: 97.5vh;
+    background-color: white;
+  }
+  
+  .navbar-ai{
+    background-color: black;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navbar-ai p{
+    color: #ccc;
+    font-size: 30px;
+    
+    margin-top: 4px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+  }
+  
+  
+  
+  
+  .chat-container-ai {
+    flex: 1;
+    overflow: auto;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top:55px ;
+  }
+  
+  .message-container-ai {
+    width: 90%;
+    margin-bottom: 10px;
+  }
+  
+  .message-ai {
+    padding: 10px;
+    border-radius: 8px;
+    width: 90%; /* Take up full width within message container */
+    margin-bottom: 10px;
+  }
+  
+  .user-ai {
+    text-align: right;
+    background-color: #cfe2f3;
+  }
+  
+  .bot-ai {
+    background-color: #e0e0e0;
+  }
+  
+  .input-form-ai {
+    display: flex;
+    /* flex-shrink: 0; */
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-top: 1px solid #ccc;
+    /* align-items: center; */
+  }
+  
+  .textarea-ai {
+    flex: 1;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 8px;
+    resize: vertical;
+    width: 50%;
+    color: black;
+    background-color: white;
+  }
+  
+  .button-ai {
+    cursor: pointer;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    padding: 8px 12px;
+    background-color: #007bff;
+    color: #fff;
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+  }
+  
+  /* Add more styles as needed */
+  

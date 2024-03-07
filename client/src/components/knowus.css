@@ -1,0 +1,42 @@
+.why-choose-us {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    font-family: Arial, sans-serif; /* Change the font family */
+  }
+  
+  .why-choose-us h1 {
+    font-size: 36px; /* Increase the heading font size */
+    text-align: center;
+    font-style: italic; /* Add italic style to the heading */
+  }
+  
+  .why-choose-us p {
+    font-size: 18px; /* Increase the paragraph font size */
+    line-height: 1.6;
+  }
+  
+  .why-choose-us ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  .why-choose-us li {
+    font-size: 16px;
+  }
+  
+  /* Style the additional benefits section */
+  .why-choose-us .additional-benefits {
+    margin-top: 20px;
+  }
+  
+  /* Style the links */
+  .why-choose-us a {
+    color: #00f;
+    text-decoration: underline;
+  }
+  
+  /* Add hover effect for links */
+  .why-choose-us a:hover {
+    color: #0078d4;
+  }

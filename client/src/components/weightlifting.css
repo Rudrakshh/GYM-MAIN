@@ -1,0 +1,45 @@
+.weight-lifting-program {
+    background-color: white; /* Black background */
+    color: black; /* White text */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Box shadow for a card-like appearance */
+   font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .weight-lifting-program h1 {
+    font-size: 40px;
+    color: rgb(253, 24, 8); /* Yellow */
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+  }
+  
+  .weight-lifting-program p {
+    font-size: 20px;
+    text-align: justify;
+    margin: 10px 0;
+  }
+  
+  .weight-lifting-program h2 {
+    font-size: 24px;
+    color: #ffcc00; /* Yellow */
+    text-decoration: underline;
+    font-weight: bold;
+    margin: 20px 0 10px;
+  }
+  
+  .weight-lifting-program ul {
+    list-style: disc;
+    margin-left: 30px;
+  }
+  
+  .weight-lifting-program li {
+    font-size: 16px;
+    margin: 5px 0;
+  }
+  
+  /* Customize other styles as needed */
+  
